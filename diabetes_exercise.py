@@ -27,3 +27,4 @@ from sklearn import datasets
 
 # create a scatterplot with regression line
 
+print("hello world")
